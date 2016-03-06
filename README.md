@@ -1,1 +1,3 @@
-### Test react project
+run
+`npm install`
+`gulp && gulp watch`
